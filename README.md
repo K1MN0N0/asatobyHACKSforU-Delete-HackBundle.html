@@ -1,1 +1,2 @@
-# asatobyHACKSforU-Delete-HackBundle.html
+# RustHacks
+Easy to setup rust hack bundle 
